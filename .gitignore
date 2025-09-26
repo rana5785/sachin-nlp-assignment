@@ -27,3 +27,4 @@ Thumbs.db
 # Optional: allow images for the report
 !Images/
 EOF
+processed/distilbert_ie_keywords/
