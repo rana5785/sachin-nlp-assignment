@@ -1,0 +1,16 @@
+label,threshold_per_label
+taste,0.6500000000000001
+flavor,0.4
+smell,0.35000000000000003
+aroma,0.30000000000000004
+fresh,0.6000000000000001
+stale,0.2
+price,0.25
+packaging,0.25
+delivery,0.2
+quality,0.30000000000000004
+texture,0.25
+size,0.4
+coffee,0.2
+tea,0.2
+chocolate,0.45000000000000007

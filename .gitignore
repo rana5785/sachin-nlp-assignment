@@ -1,0 +1,29 @@
+cat > .gitignore << 'EOF'
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Data & heavy artifacts
+Dataset/
+processed/amazon_reviews_clean.csv
+processed/reviews_*.csv
+processed/baseline_tfidf_logreg.joblib
+processed/ie_keywords_*joblib
+processed/most_similar_*.csv
+processed/w2v_*/           # word2vec models
+processed/distilbert_ie_keywords/  # transformer weights (very large)
+*.npy
+*.npz
+*.pt
+*.bin
+*.model
+*.kv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Optional: allow images for the report
+!Images/
+EOF

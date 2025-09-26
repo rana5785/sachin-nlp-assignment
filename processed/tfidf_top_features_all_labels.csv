@@ -1,0 +1,301 @@
+label,feature,coefficient
+taste,taste,139.11321142343613
+taste,tastes,80.8448705264037
+taste,tasted,66.11019803787968
+taste,the taste,25.96081835246359
+taste,it tastes,19.1317250646878
+taste,taste and,16.14903227647564
+taste,tastes great,15.25886037748243
+taste,taste of,14.341088725200795
+taste,tastes like,13.598250271534653
+taste,they taste,12.042853038292884
+taste,taste like,11.994039299044799
+taste,taste is,11.535323803050924
+taste,ever tasted,11.4478763979055
+taste,tastes good,11.192065526569923
+taste,and taste,10.80431423603911
+taste,taste great,10.533814349926448
+taste,and tastes,10.532788945096248
+taste,great taste,10.485226256099603
+taste,taste the,10.235840019284401
+taste,it tasted,9.664841271901047
+flavor,flavor,139.83327656132013
+flavor,flavors,81.72468642173459
+flavor,the flavor,22.99261114268106
+flavor,flavor and,18.533622985138013
+flavor,flavor is,14.774404790392724
+flavor,the flavors,13.695254051655954
+flavor,other flavors,12.64994855743874
+flavor,flavor of,11.538648427396254
+flavor,flavors and,11.290767469858942
+flavor,great flavor,8.655130447919056
+flavor,this flavor,8.447840289304093
+flavor,flavor but,8.434725440422506
+flavor,flavor that,8.171032797788516
+flavor,flavors of,8.015677228186473
+flavor,of flavor,8.010546064551031
+flavor,different flavors,7.948818337527831
+flavor,flavor to,7.921470270969644
+flavor,of flavors,7.597465914185481
+flavor,flavor it,7.597337001904141
+flavor,and flavor,7.405878578850994
+smell,smell,83.94959889286068
+smell,smells,60.41482441981856
+smell,the smell,16.63182934782912
+smell,it smells,16.52238043721054
+smell,smells like,10.802359028424762
+smell,smell and,10.182940335225771
+smell,and smells,9.370392009251782
+smell,and smell,8.456864702679097
+smell,smell of,8.441509165599639
+smell,smell the,7.436352942963632
+smell,smell like,7.078937769934099
+smell,smells great,6.934366522044073
+smell,smells good,6.832838561013544
+smell,they smell,6.8262266439923005
+smell,smells and,6.355028697546656
+smell,smell is,5.522281893792836
+smell,smell it,4.777296005159876
+smell,like,4.442490227180226
+smell,smells wonderful,4.311478492072569
+smell,can smell,4.203103979257287
+aroma,aroma,70.41873831003073
+aroma,the aroma,16.758349296486127
+aroma,aroma and,13.177341826883595
+aroma,aromas,10.114517954148416
+aroma,and aroma,9.367402201018084
+aroma,aroma of,9.010375464648401
+aroma,aroma is,6.338421224119487
+aroma,wonderful aroma,4.695869975054397
+aroma,aroma that,3.879972527304912
+aroma,smell,3.766328249959036
+aroma,coffee,3.759815891946869
+aroma,br,3.658229300792475
+aroma,great aroma,3.5280951306134676
+aroma,nice aroma,3.466596716869083
+aroma,an,3.347129733654586
+aroma,pleasant,3.3350108056040058
+aroma,wonderful,3.292964351745429
+aroma,br br,3.287906498812832
+aroma,aroma it,3.06264955009976
+aroma,with,3.0202943082621827
+fresh,fresh,111.03931229514937
+fresh,fresh and,15.417261375201345
+fresh,and fresh,9.469541968405515
+fresh,of fresh,7.593117152267891
+fresh,very fresh,7.066137840542073
+fresh,with fresh,6.693548691787593
+fresh,the fresh,5.961325587812464
+fresh,is fresh,5.100673462988255
+fresh,like fresh,4.932126244398895
+fresh,fresh fruit,4.61808765282169
+fresh,as fresh,4.2546906375974585
+fresh,it fresh,4.187694147608765
+fresh,stay fresh,4.111811453807385
+fresh,fresh tasting,4.035540352023076
+fresh,some fresh,3.9883812420296274
+fresh,are fresh,3.9438726091550413
+fresh,with,3.859141695663226
+fresh,stale,3.516061609850401
+fresh,br br,3.4569197594454235
+fresh,from,3.430245709588759
+stale,stale,64.8928475324065
+stale,stale and,8.07486964626901
+stale,go stale,6.2411023690835545
+stale,fresh,6.102782692889878
+stale,get stale,5.324702279275212
+stale,and stale,4.780574419437271
+stale,stale or,4.1127506002779795
+stale,date,3.6600678962416153
+stale,were,3.4493940116494937
+stale,was stale,3.4250643947539494
+stale,not stale,3.2867645545534883
+stale,or,3.007919237078044
+stale,were stale,2.964101902886378
+stale,stale br,2.9277076452578124
+stale,tasted stale,2.9124278475792047
+stale,bag,2.828255334006183
+stale,old,2.7952644164367078
+stale,or stale,2.693573836125721
+stale,br,2.6873888771870673
+stale,going stale,2.6468149544844426
+price,price,115.80061158447717
+price,priced,45.42880894984679
+price,prices,43.93843537685063
+price,the price,36.57368749403539
+price,great price,15.97068151819985
+price,price is,14.281390028338958
+price,good price,12.90853355050835
+price,price and,10.984258380088555
+price,reasonably priced,10.666672133777148
+price,reasonably,10.143944125238756
+price,price for,9.183495400774035
+price,reasonable,8.70844754632067
+price,best price,8.6517516610375
+price,at,8.580566510204804
+price,the prices,8.480017646973515
+price,amazon,7.41064409798897
+price,price was,7.088276780508761
+price,same price,7.064118835622343
+price,this price,6.935012170250161
+price,price of,6.7041094391316305
+packaging,packaging,86.96549910918775
+packaging,the packaging,26.43260541135447
+packaging,packaging and,10.11473129431542
+packaging,packaging is,10.01308637626463
+packaging,packaging was,6.063812472452415
+packaging,packaging the,4.716366782180334
+packaging,br br,4.2784587504332645
+packaging,box,4.1134845061700736
+packaging,packaging br,4.0498960668737345
+packaging,packaging it,4.0186221083830445
+packaging,and packaging,3.9526076865074846
+packaging,br,3.881781562299556
+packaging,plastic,3.850242990712388
+packaging,package,3.673496028197863
+packaging,packaging but,3.5746887614384564
+packaging,in,3.4617090695810546
+packaging,packaging that,3.448715968587459
+packaging,of packaging,3.358085440456617
+packaging,great packaging,3.283919051014789
+packaging,their packaging,3.1921211787683212
+delivery,delivery,74.93320801003524
+delivery,the delivery,9.10967570403595
+delivery,delivery was,8.031624740564837
+delivery,auto delivery,6.496001819362334
+delivery,fast delivery,6.445904037703628
+delivery,delivery and,6.056155032559481
+delivery,and delivery,5.7381954248956815
+delivery,delivery is,5.118349879796575
+delivery,auto,5.016991753948883
+delivery,amazon,4.938866181443741
+delivery,fast,4.850506343198828
+delivery,automatic delivery,4.123580027968124
+delivery,automatic,4.1234724381680286
+delivery,quick delivery,4.070958653853755
+delivery,delivery of,3.6981940079848368
+delivery,for delivery,3.588249553177484
+delivery,free delivery,3.4185819452078534
+delivery,prompt,3.412752025377243
+delivery,quick,3.3514974016154766
+delivery,was,3.0611457312775405
+quality,quality,110.09421655757495
+quality,the quality,16.900521686683373
+quality,high quality,16.05861527063466
+quality,good quality,13.243360963115625
+quality,quality of,13.015715183758177
+quality,quality and,11.269618107185948
+quality,high,9.394936630790262
+quality,quality product,7.309193920835318
+quality,and quality,6.914142656350914
+quality,quality control,6.007606545003805
+quality,great quality,5.847533977683524
+quality,quality is,5.5794548609050985
+quality,quality food,5.2957438143663795
+quality,better quality,5.287388158221969
+quality,quality ingredients,5.219162605983032
+quality,excellent quality,4.822089467808673
+quality,in quality,4.7285180155045365
+quality,poor quality,4.255228006499216
+quality,of quality,4.2290013742056285
+quality,higher quality,4.031320962866969
+texture,texture,91.9205293634793
+texture,the texture,20.109509365627673
+texture,textures,18.9540000302621
+texture,texture and,16.122964603413624
+texture,textured,14.823621094249965
+texture,and texture,14.266678844688139
+texture,texture is,10.760916068043036
+texture,texture of,9.575191829060566
+texture,and textures,6.843946977542032
+texture,great texture,5.305560901271537
+texture,in texture,5.1368170745592145
+texture,texture to,4.93091661136443
+texture,textures and,4.734270033939814
+texture,texture that,4.443040948190294
+texture,texture but,4.2304314474475
+texture,nice texture,4.158357074176348
+texture,with,4.017464294937553
+texture,texture br,3.980913267169335
+texture,texture the,3.9645973099329708
+texture,texture was,3.8744048569942238
+size,size,94.55752355792022
+size,sized,52.12146935083998
+size,sizes,32.81919448533691
+size,the size,13.521157664634996
+size,size of,11.336410920193634
+size,size and,10.110877780581294
+size,serving size,9.458148249922223
+size,size is,8.054467153291974
+size,size for,7.957988475463558
+size,serving,7.512659741276647
+size,larger,6.935768639588502
+size,small,6.706911822680539
+size,smaller,5.9416601031873135
+size,perfect size,5.851085925883143
+size,same size,5.393164213850296
+size,large,5.32469837024846
+size,in size,5.315576713584944
+size,good sized,5.129618117311014
+size,medium,5.03667344564529
+size,this size,4.983300998843966
+coffee,coffee,104.86998401466427
+coffee,coffees,29.60022373524526
+coffee,coffee and,11.428982066761023
+coffee,of coffee,11.358447486676354
+coffee,my coffee,10.039473637741388
+coffee,the coffee,9.534431907800492
+coffee,coffee or,8.294786690058132
+coffee,this coffee,7.2633420547675245
+coffee,with coffee,6.886827498149374
+coffee,cup,6.758694116721757
+coffee,in coffee,6.474851653703972
+coffee,cups,5.902638972693103
+coffee,or coffee,5.6659959455889375
+coffee,morning,5.45266371117661
+coffee,flavored coffees,5.222850432452558
+coffee,coffee but,5.06050244842611
+coffee,coffee is,5.038133399573166
+coffee,starbucks,4.808487109440576
+coffee,coffees and,4.773203344408229
+coffee,and coffee,4.684859859653305
+tea,tea,92.0841065757142
+tea,teas,35.73777064752492
+tea,this tea,10.866104420202577
+tea,tea and,10.201744759014664
+tea,green tea,9.600382837733441
+tea,of tea,8.26692249476095
+tea,the tea,7.490452372750297
+tea,teas and,7.428985103412335
+tea,tea or,7.111030031088258
+tea,green,6.972673865642047
+tea,chai,6.404387801580678
+tea,or tea,6.175381394415461
+tea,iced,5.497010588157476
+tea,coffee tea,5.290707678157036
+tea,my tea,5.285815003006667
+tea,matcha,5.177297213592831
+tea,iced tea,5.152266934628519
+tea,and tea,5.0818251626424695
+tea,tea is,4.969511241089879
+tea,honey,4.8780694902430035
+chocolate,chocolate,98.72566455994891
+chocolate,chocolates,29.6604299276017
+chocolate,the chocolate,14.43486550471125
+chocolate,hot chocolate,9.010088823774836
+chocolate,chocolate and,8.919961994743439
+chocolate,of chocolate,8.213637570609757
+chocolate,dark chocolate,8.10919630116449
+chocolate,chocolate chip,6.81491702018074
+chocolate,and chocolate,6.718058298633551
+chocolate,dark,6.41345034592884
+chocolate,cocoa,5.471034055973123
+chocolate,milk,5.203639955640426
+chocolate,chocolate flavor,5.193968483947262
+chocolate,chocolate chips,4.996849305889672
+chocolate,these chocolates,4.7135446344995335
+chocolate,the chocolates,4.679983625249621
+chocolate,with chocolate,4.495160677750318
+chocolate,hot,4.492359748104723
+chocolate,like chocolate,4.315035092942309
+chocolate,cookies,4.312173775015362
